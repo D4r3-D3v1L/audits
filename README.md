@@ -6,11 +6,16 @@
 |------------------|---------------|-----------------|
 | Delegate       | Code4rena    | 1 M (Solo)  |
 | Decent       | Code4rena    | 1 H       |
+|Allo-V2 | Sherlock | 1 H ,5 M (collab)|
+|Gho-Competition | Code4rena | Formal Verification|
 | Munchables       | Code4rena    | 1 H       |
 | Basin       | Code4rena    | 1 H       |
 | SuperPosition       | Code4rena    | 2 H       |
+|Euler Competition |Cantina | Formal Verification|
+|Uniswap-V4-Periphery | Cantina | Formal Verification|
 | Avantis | Sherlock | 1 H (collab)|
-|Allo-V2 | Sherlock | 1 H ,5 M (collab)|
+
+
 
 
 # Private Audits
