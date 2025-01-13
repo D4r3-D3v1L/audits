@@ -1,4 +1,22 @@
-# audits
+### Audit Portfolio - D4r3D3v1L (Surya)
+
+#### About Me
+An Independent Smart Contract Security Researcher.  
+- CTF player 
+- Actively involved in audit contests on:
+  - **Sherlock**
+  - **Code4rena (C4)**
+  - **Cantina**
+- Engaged in **Formal Verification** contests at Certora.
+
+#### Contact
+For private audits or security consulting, please reach out via:
+
+- **Discord**: `d4r3d3v1l`
+- **Twitter**: [D4r3_D3v1L_](https://x.com/D4r3_D3v1L_)  
+- **Telegram**: [@d4r3_d3v1l](https://t.me/d4r3_d3v1l)  
+
+
 
 # Contests
 
