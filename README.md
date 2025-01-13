@@ -22,7 +22,7 @@ For private audits or security consulting, please reach out via:
 
 |**Project**     |**Platform**   | **Findings**    |
 |------------------|---------------|-----------------|
-| Delegate       | Code4rena    | 1 M (Solo)  |
+| Delegate 🥈      | Code4rena    | 1 M (Solo)  |
 | Decent       | Code4rena    | 1 H       |
 |Allo-V2 | Sherlock | 1 H ,5 M (collab)|
 |Gho-Competition | Code4rena | Formal Verification|
