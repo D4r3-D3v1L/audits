@@ -1,7 +1,7 @@
 ### Audit Portfolio - D4r3D3v1L (Surya)
 
 #### About Me
-An Independent Smart Contract Security Researcher.  
+- An Independent Smart Contract Security Researcher.  
 - CTF player 
 - Actively involved in audit contests on:
   - **Sherlock**
