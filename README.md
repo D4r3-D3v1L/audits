@@ -20,18 +20,18 @@ For private audits or security consulting, please reach out via:
 
 # Contests
 
-|**Project**     |**Platform**   | **Findings**    |
-|------------------|---------------|-----------------|
-| Delegate 🥈      | Code4rena    | 1 M (Solo)  |
-| Decent       | Code4rena    | 1 H       |
-|Allo-V2 | Sherlock | 1 H ,5 M (collab)|
-|Gho-Competition | Code4rena | Formal Verification|
-| Munchables       | Code4rena    | 1 H       |
-| Basin       | Code4rena    | 1 H       |
-| SuperPosition       | Code4rena    | 2 H       |
-|Euler Competition |Cantina | Formal Verification|
-|Uniswap-V4-Periphery | Cantina | Formal Verification|
-| Avantis | Sherlock | 1 H (collab)|
+|**Project**     |**Platform**   | **Findings**    | **Language** |
+|------------------|---------------|-----------------|-----------------|
+| Delegate 🥈      | Code4rena    | 1 M (Solo)  | EVM <sub>(Solidity)<sub> |
+| Decent       | Code4rena    | 1 H       | EVM <sub>(Solidity)<sub> | 
+|Allo-V2 | Sherlock | 1 H ,5 M (collab)| EVM <sub>(Solidity)<sub> | 
+|Gho-Competition | Code4rena | Formal Verification| EVM <sub>(Solidity)<sub>|
+| Munchables       | Code4rena    | 1 H       | EVM <sub>(Solidity)<sub>  |
+| Basin       | Code4rena    | 1 H       | EVM <sub>(Solidity)<sub> |
+| SuperPosition       | Code4rena    | 2 H       | EVM <sub>(Stylus)<sub> |
+|Euler Competition |Cantina | Formal Verification| EVM <sub>(Solidity)<sub> |
+|Uniswap-V4-Periphery | Cantina | Formal Verification| EVM <sub>(Solidity)<sub> |
+| Avantis | Sherlock | 1 H (collab)| EVM <sub>(Solidity)<sub> |
 
 
 
