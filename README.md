@@ -14,7 +14,8 @@ For private audits or security consulting, please reach out via:
 
 - **Discord**: `d4r3d3v1l`
 - **Twitter**: [D4r3_D3v1L_](https://x.com/D4r3_D3v1L_)  
-- **Telegram**: [@d4r3_d3v1l](https://t.me/d4r3_d3v1l)  
+- **Telegram**: [@d4r3_d3v1l](https://t.me/d4r3_d3v1l)
+- **Code4rena**: [d4r3d3v1l](https://code4rena.com/@d4r3d3v1l)
 
 
 
