@@ -19,6 +19,15 @@ For private audits or security consulting, please reach out via:
 
 
 
+# Private Audits
+
+| **Project**                     | **Timeline** | **Language**   | **Protocol**          | **Report**                     |
+|----------------------------------|--------------|----------------|-----------------------|---------------------------------|
+| Supra Mobile Wallet & Extension | Dec 2024     | React Native   | Wallet, Web Extension | [Link](https://drive.google.com/file/d/1i0pmF5ov1GPyLMh24dPhYanHfJiqoEoZ/view) |
+| Hivello | Jan 2025 | Solana (Rust) | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
+
+
+
 # Contests
 
 |**Project**     |**Platform**   | **Findings**    | **Language** |
@@ -33,16 +42,6 @@ For private audits or security consulting, please reach out via:
 |Euler Competition |Cantina | Formal Verification| EVM <sub>(Solidity)<sub> |
 |Uniswap-V4-Periphery | Cantina | Formal Verification| EVM <sub>(Solidity)<sub> |
 | Avantis | Sherlock | 1 H (collab)| EVM <sub>(Solidity)<sub> |
-
-
-
-
-# Private Audits
-
-| **Project**                     | **Timeline** | **Language**   | **Protocol**          | **Report**                     |
-|----------------------------------|--------------|----------------|-----------------------|---------------------------------|
-| Supra Mobile Wallet & Extension | Dec 2024     | React Native   | Wallet, Web Extension | [Link](https://drive.google.com/file/d/1i0pmF5ov1GPyLMh24dPhYanHfJiqoEoZ/view) |
-| Hivello | Jan 2025 | Solana (Rust) | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
 
 
 # CTFs and Some Research Stuff
