@@ -32,6 +32,7 @@ For private audits or security consulting, please reach out via:
 
 |**Project**     |**Platform**   | **Findings**    | **Language** |
 |------------------|---------------|-----------------|-----------------|
+|Initia Move | Code4rena | 1 M (Solo) |Move <sub>Aptos<sub>|
 | Delegate 🥈      | Code4rena    | 1 M (Solo)  | EVM <sub>(Solidity)<sub> |
 | Decent       | Code4rena    | 1 H       | EVM <sub>(Solidity)<sub> | 
 |Allo-V2 | Sherlock | 1 H ,5 M (collab)| EVM <sub>(Solidity)<sub> | 
