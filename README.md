@@ -25,6 +25,7 @@ For private audits or security consulting, please reach out via:
 |----------------------------------|--------------|----------------|-----------------------|---------------------------------|
 | Supra Mobile Wallet & Extension | Dec 2024     | React Native   | Wallet, Web Extension | [Link](https://drive.google.com/file/d/1i0pmF5ov1GPyLMh24dPhYanHfJiqoEoZ/view) |
 | Hivello | Jan 2025 | Solana (Rust) | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
+|PoSciDonDAO | Feb 2025 | Solidity | Token Manager | Soon |
 
 
 
