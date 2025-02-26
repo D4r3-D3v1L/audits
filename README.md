@@ -24,8 +24,8 @@ For private audits or security consulting, please reach out via:
 | **Project**                     | **Timeline** | **Language**   | **Protocol**          | **Report**                     |
 |----------------------------------|--------------|----------------|-----------------------|---------------------------------|
 | Supra Mobile Wallet & Extension | Dec 2024     | React Native   | Wallet, Web Extension | [Link](https://drive.google.com/file/d/1i0pmF5ov1GPyLMh24dPhYanHfJiqoEoZ/view) |
-| Hivello | Jan 2025 | Solana (Rust) | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
-|PoSciDonDAO | Feb 2025 | Solidity | Token Manager | Soon |
+| Hivello | Jan 2025 | Rust <sub>(Solana)<sub>  | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
+|PoSciDonDAO | Feb 2025 | Solidity | Token Manager | [Link](https://drive.google.com/file/d/1u5Y8wT9zsiNlNbNxiKGi2DbnVDzvMbcu/view?usp=sharing) |
 
 
 
@@ -33,7 +33,7 @@ For private audits or security consulting, please reach out via:
 
 |**Project**     |**Platform**   | **Findings**    | **Language** |
 |------------------|---------------|-----------------|-----------------|
-|Initia Move | Code4rena | 1 M (Solo) |Move <sub>Aptos<sub>|
+|Initia Move | Code4rena | 1 M (Solo) |Move <sub>(Aptos)<sub>|
 | Delegate 🥈      | Code4rena    | 1 M (Solo)  | EVM <sub>(Solidity)<sub> |
 | Decent       | Code4rena    | 1 H       | EVM <sub>(Solidity)<sub> | 
 |Allo-V2 | Sherlock | 1 H ,5 M (collab)| EVM <sub>(Solidity)<sub> | 
