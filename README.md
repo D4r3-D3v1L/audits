@@ -21,12 +21,19 @@ For private audits or security consulting, please reach out via:
 
 # Private Audits
 
+## Web3
+
+| **Project**                     | **Timeline** | **Language**   | **Protocol**          | **Report**                     |
+|----------------------------------|--------------|----------------|-----------------------|---------------------------------|
+| Hivello | Jan 2025 | Rust <sub>(Solana)<sub>  | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
+|PoSciDonDAO | Feb 2025 | Solidity | Token Manager | [Link](https://drive.google.com/file/d/1u5Y8wT9zsiNlNbNxiKGi2DbnVDzvMbcu/view?usp=sharing) |
+|Hand of God | March 2025 | Solidity |Staking| Soon |
+
+## Wallets & web2
 | **Project**                     | **Timeline** | **Language**   | **Protocol**          | **Report**                     |
 |----------------------------------|--------------|----------------|-----------------------|---------------------------------|
 | Supra Mobile Wallet & Extension | Dec 2024     | React Native   | Wallet, Web Extension | [Link](https://drive.google.com/file/d/1i0pmF5ov1GPyLMh24dPhYanHfJiqoEoZ/view) |
-| Hivello | Jan 2025 | Rust <sub>(Solana)<sub>  | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
-|PoSciDonDAO | Feb 2025 | Solidity | Token Manager | [Link](https://drive.google.com/file/d/1u5Y8wT9zsiNlNbNxiKGi2DbnVDzvMbcu/view?usp=sharing) |
-
+| Fishing Frenzy | Feb 2025     | React / RestAPI   | Onchain RPG | Soon |
 
 
 # Contests
