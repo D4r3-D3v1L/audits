@@ -28,6 +28,12 @@ For private audits or security consulting, please reach out via:
 | Hivello | Jan 2025 | Rust <sub>(Solana)<sub>  | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
 |PoSciDonDAO | Feb 2025 | Solidity | Token Manager | [Link](https://drive.google.com/file/d/1u5Y8wT9zsiNlNbNxiKGi2DbnVDzvMbcu/view?usp=sharing) |
 |Hand of God | March 2025 | Solidity |Staking| Soon |
+|GOAT | March 2025 | Solidity | Governance Token | |
+|Growfitter |April 2025 | Aptos | NFT Collection | |
+|GRQ | April 2025 | Solidity | Staking | |
+|KMBio | April 2025 | Solidity | Vesting | |
+|GRQ V2 | April 2025 | Solidity | Staking | |
+|HetraCoin | May 2025 | Sui | Token Manager | Soon | 
 
 ## Wallets & web2
 | **Project**                     | **Timeline** | **Language**   | **Protocol**          | **Report**                     |
