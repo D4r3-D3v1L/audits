@@ -28,6 +28,7 @@ For private audits or security consulting, please reach out via:
 |Supra | April 2025 | Aptos,Move,Rust | Supra L1 Chain | Soon |
 |Panana Predictions | July 2025 | Aptos Move | Prediction Market | Soon|
 |Full Sail | June 2025 | Sui Move | Governance | Soon |
+|HetraCoin | May 2025 | Sui,Move | Token Manager | [Link](https://drive.google.com/file/d/1Pac-Sm0w87FTs8ozod0URJ3RmeZEhyLU/view?usp=sharing) | 
 |Hivello | Jan 2025 | Solana  | Staking | [Link](https://drive.google.com/file/d/11pF10olKeajP4QHxgNwP1VKv2-AsLCow/view)|
 |PoSciDonDAO | Feb 2025 | Solidity | Token Manager | [Link](https://drive.google.com/file/d/1u5Y8wT9zsiNlNbNxiKGi2DbnVDzvMbcu/view?usp=sharing) |
 |Hand of God | Feb 2025 | Solidity |Staking| [Link](https://drive.google.com/file/d/1aVVpmH-cbu5Ci_d9qQ0bCGxtHbhnSdxc/view?usp=sharing) |
@@ -37,7 +38,7 @@ For private audits or security consulting, please reach out via:
 |KMBio | April 2025 | Solidity | Vesting | [Link](https://drive.google.com/file/d/1A_w3UBB7VLIEQThTksw_lGhdt3E5IkXx/view?usp=sharing)|
 |GRQ V2 | April 2025 | Solidity | Staking | [Link](https://drive.google.com/file/d/1TIzSgFsX2aHoUGNF2eiC3P7ZvI3tP8Bg/view?usp=sharing)|
 |Berafarm | June 2025 | Solidity | Defi | Soon|
-|HetraCoin | May 2025 | Sui,Move | Token Manager | Soon | 
+
 
 ## Wallets & web2
 | **Project**                     | **Timeline** | **Language**   | **Protocol**          | **Report**                     |
